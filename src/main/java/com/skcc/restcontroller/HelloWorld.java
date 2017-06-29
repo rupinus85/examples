@@ -8,6 +8,6 @@ public class HelloWorld {
 
 	@RequestMapping("/")
 	public String helloworld(){
-		return "Hello World44";
+		return "Hello World3";
 	}
 }
